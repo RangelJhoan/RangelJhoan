@@ -32,12 +32,16 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 📊 My Github Stats
 
-  <img align="left" alt="RangelJhoan's GitHub Stats" src="https://github-readme-stats.rangeljhoan.vercel.app/api?username=rangeljhoan&show_icons=true&hide_border=true" />
-
-</details>
+  <br/>
+  <p align="center">
+    <a href="#"><img alt="Rangel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RangelJhoan&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Rangel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RangelJhoan&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <p class="note">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 [twitter]: https://twitter.com/RangelJhoan1
 [instagram]: https://instagram.com/jhoanmrangel
