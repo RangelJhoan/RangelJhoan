@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://i2.wp.com/i0.wp.com/cdn.statically.io/img/i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif" height="175px"/></a>
+
 ### Hi there, I'm Jhoan Rangel 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RangelJhoan1?color=1DF22E&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan1&screen_name=RangelJhoan1)
