@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i2.wp.com/i0.wp.com/cdn.statically.io/img/i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i2.wp.com/i0.wp.com/cdn.statically.io/img/i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif" height="50px"/></a>
 
 ### Hi there, I'm Jhoan Rangel 👋 
 
