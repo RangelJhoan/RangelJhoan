@@ -1,6 +1,6 @@
 ### Hi there, I'm Jhoan Rangel 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RangelJhoan1?color=1DF22E&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan&screen_name=RangelJhoan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RangelJhoan1?color=1DF22E&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan1&screen_name=RangelJhoan)
 
 ## I'm a Student and Developer!!
 
