@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="300px" src="https://i2.wp.com/i0.wp.com/cdn.statically.io/img/i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif"/></a>
+<a href="#"><img width="100%" height="300px" src="https://i2.wp.com/i0.wp.com/cdn.statically.io/img/i.pinimg.com/originals/de/34/12/de3412e3c5d2ed0b11ec8291a28a3db5.gif"/> </a>
 
 <h1 align="center"> Hi there, I'm Jhoan Rangel 👋 </h1>
 <p align="center">I'm a Systems Engineering student and Junior Android Developer with great aspirations in my proffesional and work life.</p>
