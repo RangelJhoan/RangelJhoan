@@ -1,13 +1,19 @@
-<a href="#"><img width="100%" height="300px" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif"/> </a>
-
 <h1 align="center"> Hi there, I'm Jhoan Rangel 👋 </h1>
-<p align="center">I'm a Systems Engineering student and Junior Android Developer with great aspirations in my proffesional and work life.</p>
+<a>
+  <img width="100%" height="450px" src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1745452800&v=beta&t=yys84MccAc7LtxqPjjMYMzUzwT1m9Z3rNcdSLpGSiZ4"/>
+</a>
+
+## About me
+
+-  🎓 Systems Engineer 
+- 💻 Backend and mobile developer using Java and Kotlin 
+- 🚀 Improving my skills in Spring Boot and its technologies.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RangelJhoan1?color=1DF22E&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan1&screen_name=RangelJhoan1)
 
-- 🌱 I’m currently learning everything 💪
+- 🌱 I'm currently in learning mode. 💪
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="RangelJhoan1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RangelJhoan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,32 +23,32 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Android-Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Android-Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" />
 
 <br />
 <br />
 
 ---
 
-## 📊 My Github Stats
+### ⚙️ &nbsp;GitHub Analytics
 
   <br/>
-  <p align="center">
-    <a href="#"><img alt="Rangel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RangelJhoan&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-  <a href="#"><img alt="Rangel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RangelJhoan&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <p class="note">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<p align="center">
+  <a href="https://github.com/RangelJhoan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RangelJhoan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RangelJhoan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 [twitter]: https://twitter.com/RangelJhoan1
 [instagram]: https://instagram.com/jhoanmrangel
